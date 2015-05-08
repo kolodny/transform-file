@@ -1,0 +1,17 @@
+{
+  "name": "transform-file",
+  "version": "1.0.0",
+  "description": "transform file in place using streams and temp files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Moshe Kolodny",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "temp": "^0.8.1"
+  }
+}
