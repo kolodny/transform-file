@@ -16,7 +16,6 @@
     "os-tmpdir": "^1.0.0"
   },
   "dependencies": {
-    "node-constants": "0.0.2",
     "temp": "^0.8.1"
   }
 }
